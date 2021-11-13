@@ -2,7 +2,7 @@
 
 Welcome to the official issue-only repo for Ghiply. Ghiply is a simple UWP application that displays random GIFs from Giphy.com.
 
-Microsoft Store: https://www.microsoft.com/store/apps/9N0PFFD079WW
+Microsoft Store: https://www.microsoft.com/store/apps/9N56WT41PXMN
 
 ![](images/GiphlyHero.png)
 
